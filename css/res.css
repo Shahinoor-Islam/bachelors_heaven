@@ -1,0 +1,13 @@
+/* ====== media ============ */
+@media only screen and (max-width: 576px) {
+    .menu ul li {
+        border: 1px solid tomato;
+        background: tomato;
+        margin: 5px;
+        border-radius: 10px;
+    }
+    .menu ul li a {
+        font-size: 12px;
+    }
+
+}
